@@ -1,4 +1,5 @@
 # 永豐AI GO競賽-攻房戰
+Our solution for 永豐AI GO競賽-攻房戰. In this repository, you can find all our training and evaluation scripts.
 
 ## Results and Ranking
 This competition uses the mean absolute percentage error (MAPE) as the metric.
